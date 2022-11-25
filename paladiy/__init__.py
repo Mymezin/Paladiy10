@@ -1,0 +1,1 @@
+from paladiy.func import paladiy
